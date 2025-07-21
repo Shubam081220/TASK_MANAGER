@@ -34,3 +34,6 @@ A simple yet powerful Task Manager built with React. This app lets users:
    git clone https://github.com/yourusername/TaskManager.git
    cd TaskManager
 
+# Contributing
+Pull requests are welcome! If you find a bug or have a feature request, open an issue or submit a PR.
+
